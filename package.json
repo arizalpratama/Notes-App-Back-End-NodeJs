@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/arizalpratama/Notes-App-Back-End-NodeJs/issues"
   },
-  "homepage": "https://github.com/arizalpratama/Notes-App-Back-End-NodeJs#readme"
+  "homepage": "https://github.com/arizalpratama/Notes-App-Back-End-NodeJs#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
 }
