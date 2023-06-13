@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/arizalpratama/Notes-App-Back-End-NodeJs#readme",
   "devDependencies": {
+    "eslint": "^8.42.0",
     "nodemon": "^2.0.22"
   }
 }
