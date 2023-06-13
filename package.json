@@ -19,6 +19,8 @@
   "homepage": "https://github.com/arizalpratama/Notes-App-Back-End-NodeJs#readme",
   "devDependencies": {
     "eslint": "^8.42.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.27.5",
     "nodemon": "^2.0.22"
   }
 }
